@@ -16,6 +16,17 @@ The data used in this project is made by augmenting and combining various public
 
 The data have Nitrogen, Phosphorous, Potassium, and pH values of the soil. Also, it contains the humidity, temperature, and rainfall required for a particular crop.
 
+
+## Technologies Used 💻
+
+- **Python**: Programming language used for backend development and machine learning.
+- **Flask**: Micro web framework used for building the web application.
+- **HTML/CSS**: Frontend markup and styling languages.
+- **Bootstrap**: Frontend framework for responsive and mobile-first design.
+- **Pandas, NumPy, Scikit-learn**: Python libraries used for data manipulation, analysis, and machine learning modeling.
+- **GitHub**: Platform for hosting the project repository and collaboration.
+- **Jupyter Notebook**: Used for data exploration and model development (if applicable).
+
 ## Project Structure 📁
 
 - `app.py`: Flask application to serve the crop recommendation model.
@@ -63,7 +74,18 @@ The data have Nitrogen, Phosphorous, Potassium, and pH values of the soil. Also,
 
 ## Video 📹
 
-Include a video walkthrough of your application to demonstrate its usage and features.
+https://github.com/user-attachments/assets/724f023f-dc3d-4939-90e5-c270078f9bfc
+
+## Contributing 🤝
+
+Contributions are welcome! Feel free to submit issues and enhancement requests. If you'd like to contribute code, please fork the repository and submit a pull request.
+
+## Final Note 🎉
+
+Thank you for exploring our Crop Recommendation System! We hope it proves useful for farmers and enthusiasts alike. Your feedback and contributions are valuable to us.
+
+Happy farming! 🌱
+
 
 
 
