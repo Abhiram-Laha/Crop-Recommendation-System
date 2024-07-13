@@ -58,7 +58,8 @@ The data have Nitrogen, Phosphorous, Potassium, and pH values of the soil. Also,
 
 ## Screenshots 📸
 
-Insert screenshots of your application here to showcase its interface and functionality.
+![Homepage screenshot](screenshots/1.png)
+![Recommendation screenshot](screenshots/2.png)
 
 ## Video 📹
 
