@@ -28,3 +28,94 @@ The data have Nitrogen, Phosphorous, Potassium, and pH values of the soil. Also,
   - `<crop_name>.jpg`: Images of the crops for displaying recommendations.
 - `README.md`: This file.
 
+## How to Run the Project 🏃‍♂️
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/crop-recommendation-system.git
+   cd crop-recommendation-system
+
+2. **Install Dependencies**:
+    ```bash
+   pip install -r requirements.txt
+
+3. **Run the Application**:
+    ```bash
+    python app.py
+
+4. **Open Your Browser**:
+  - Navigate to http://127.0.0.1:5000/ to see the application in action.
+
+
+## Usage 🖥️
+
+1. **Enter the values for Nitrogen, Phosphorous, Potassium, Temperature, Humidity, pH, and Rainfall in the form.**
+   
+2. **Click on "Get Recommendation".**
+   
+3. **The recommended crop will be displayed along with an image of the crop.**
+
+
+## Screenshots 📸
+
+Insert screenshots of your application here to showcase its interface and functionality.
+
+## Video 📹
+
+Include a video walkthrough of your application to demonstrate its usage and features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
